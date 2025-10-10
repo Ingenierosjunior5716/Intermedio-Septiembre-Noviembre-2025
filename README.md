@@ -8,4 +8,4 @@ https://docs.arduino.cc/language-reference/#structure
 
 ## Archivos:
 
-### Ultrasónico: Función del ultrasónico.
+### Ultrasonico: Función del ultrasónico.
