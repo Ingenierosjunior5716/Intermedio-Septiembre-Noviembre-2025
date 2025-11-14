@@ -1,6 +1,6 @@
 #include "Carrito.h"
 
-Carrito Roberto; //Ingresa el nombre de tu carrito despues de Carrito y antes de el punto y coma
+Carrito ; //Ingresa el nombre de tu carrito despues de Carrito y antes de el punto y coma
 
 void setup() {
   // Ya se inicializa en el constructor
