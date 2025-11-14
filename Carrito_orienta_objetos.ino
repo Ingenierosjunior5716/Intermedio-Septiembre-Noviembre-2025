@@ -14,9 +14,5 @@ void loop() {
   (nombre de tu carrito).parar();
   Recuerda usar delay para que las instrucciones sigan una secuencia
   */
-  Roberto.adelante();
-  delay(800);
-  Roberto.derecha();
-  delay(800);
 }
 
