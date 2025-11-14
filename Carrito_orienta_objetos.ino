@@ -3,7 +3,7 @@
 Carrito ; //Ingresa el nombre de tu carrito despues de Carrito y antes de el punto y coma
 
 void setup() {
-  // Ya se inicializa en el constructor
+  // Ya se inicializa en la libreria
 }
 
 void loop() {
