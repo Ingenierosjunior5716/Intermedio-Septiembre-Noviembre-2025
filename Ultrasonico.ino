@@ -20,7 +20,7 @@ tiempo_de_espera = pulseIn (echo,HIGH);   // pulseIn, recoge la señal del sonid
 distancia =(tiempo_de_espera/2)/29.15;    // Formula para hallar la distancia
 Serial.print (distancia);                 // Imprimimos la distancia en el monitor serial
 Serial.println ("cm");                    // Imprimimos "cm"
-return distancia;                         // Si se llama a  la función, toma el valor de la variable distancia
+return distancia;                         // Si se llama a la función, toma el valor de la variable distancia
 }
 
 void loop() {
