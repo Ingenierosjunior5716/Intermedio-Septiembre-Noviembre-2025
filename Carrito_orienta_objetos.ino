@@ -1,4 +1,4 @@
-#include "Carrito.h"
+#include "Carrito.h" //Recuerda tener tu archivo de carrito.h y tu archivo .ino en una misma carpeta
 
 Carrito ; //Ingresa el nombre de tu carrito despues de Carrito y antes de el punto y coma
 
